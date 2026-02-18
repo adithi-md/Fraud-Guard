@@ -1,0 +1,13 @@
+streamlit
+plotly
+pandas
+numpy
+scikit-learn
+imbalanced-learn
+passlib
+streamlit-lottie
+streamlit-option-menu
+fpdf
+matplotlib
+seaborn
+requests
